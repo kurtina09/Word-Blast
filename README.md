@@ -6,13 +6,8 @@ Again, code should be neat, well documented.  Variables should have meaningful n
 ```
 /**************************************************************
 * Class:  CSC-415-0# Fall 2021
-* Name: Edel Jhon Cenario
-* Student ID: 921121224
 * GitHub ID: kurtina09
 * Project: Assignment 4 – Word Blast
-*
-* File: cenario_edeljhon_HW4_main.c
-*
 * Description: This assignment is about creating a program that will read words that are 6 or more characters long from a file. We will be using threads, and each thread will take a chunk of file and process it. 
 **************************************************************/
 ```
